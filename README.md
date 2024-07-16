@@ -18,10 +18,7 @@ You can click the Preview link to take a look at your changes.
 </br>  
 
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthpula341&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Srikanthpula341&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
-</div> -->
+
 
 
 <!-- ==============================================================================================================-->
