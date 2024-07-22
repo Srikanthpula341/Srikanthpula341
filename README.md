@@ -20,11 +20,13 @@ A passionate Java Full Stack Developer, dedicated to developing robust applicati
 </p>
 
 <h2 align="center">📊 My GitHub Stats</h2>
-<div style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthpula341&theme=indian-flag" alt="Srikanthpula341's streak stats" width="100%" />
-</div>
-<div style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srikanthpula341&theme=flag-india&show_icons=true&count_private=true" alt="Srikanthpula341's GitHub stats" width="100%"/>
+<div style="margin: 20px 0; display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthpula341&theme=indian-flag" alt="Srikanthpula341's streak stats" width="100%" />
+  </div>
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Srikanthpula341&theme=flag-india&show_icons=true&count_private=true" alt="Srikanthpula341's GitHub stats" width="100%"/>
+  </div>
 </div>
 
 <h2 align="center">🌟 My GitHub Contributions</h2>
