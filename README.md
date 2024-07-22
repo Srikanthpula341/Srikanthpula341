@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Srikanthpula341">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0e75b6&center=true&vCenter=true&lines=Java+Full+Stack+Developer;
-      Passionate+Coder;Open+Source+Contributor;Innovative+Technologist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=0e75b6&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Passionate+Coder;Open+Source+Contributor;Innovative+Technologist" alt="Typing SVG" />
   </a>
 </p>
 
