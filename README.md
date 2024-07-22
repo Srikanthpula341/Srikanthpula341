@@ -16,40 +16,42 @@
 </p>
 
 <h2 align="center">📊 My GitHub Stats</h2>
-<div>
+<div style="padding: 10px 0;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthpula341&theme=indian-flag" alt="Srikanthpula341's streak stats" width="100%" />
 </div>
-<div>
+<div style="padding: 10px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=Srikanthpula341&theme=flag-india&show_icons=true&count_private=true" alt="Srikanthpula341's GitHub stats" width="100%"/>
 </div>
 
 <h2 align="center">🌟 My GitHub Contributions</h2>
-<p align="center">
+<p align="center" style="padding: 10px 0;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srikanthpula341&theme=vue" alt="Srikanthpula341's GitHub Contributions" width="100%" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
+<p align="center" style="padding: 10px 0;">
   <img src="https://activity-graph.herokuapp.com/graph?username=Srikanthpula341&theme=react-dark" alt="Contribution Graph" width="100%" />
 </p>
 
 <h2 align="center">💻 Most Used Languages</h2>
-<p align="center">
+<p align="center" style="padding: 10px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthpula341&langs_count=8&layout=compact&theme=flag-india" alt="Top Languages" width="100%" />
 </p>
 
 <h2 align="center">👨‍💻 Projects and Contributions</h2>
-<div>
+<p align="center" style="padding: 10px 0;">
   <a href="https://github.com/Srikanthpula341/nextjs-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=nextjs-learning&theme=flag-india" alt="Next.js Learning" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=nextjs-learning&theme=flag-india" alt="Next.js Learning" width="100%" />
   </a>
+</p>
+<p align="center" style="padding: 10px 0;">
   <a href="https://github.com/Srikanthpula341/OnFitAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=OnFitAI&theme=flag-india" alt="OnFitAI" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=OnFitAI&theme=flag-india" alt="OnFitAI" width="100%" />
   </a>
-</div>
+</p>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
-<p align="center">
+<p align="center" style="padding: 10px 0;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
