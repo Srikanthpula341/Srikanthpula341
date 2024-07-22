@@ -1,9 +1,15 @@
 # 👋 Hi, I’m @Srikanthpula341
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+  <a href="https://github.com/Srikanthpula341">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=0e75b6&center=true&lines=Java+Full+Stack+Developer;Passionate+Coder;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
+- 👀 I’m interested in building scalable web applications and real-time communication solutions.
+- 🌱 I’m currently learning Next.js, React Native, and advanced Java techniques.
+- 💞️ I’m looking to collaborate on innovative projects that leverage Java and modern web technologies.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srikanthpula341/) | [Email](mailto:your-email@example.com)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Srikanthpula341&label=Profile%20views&color=0e75b6&style=flat" alt="Srikanthpula341" />
@@ -30,4 +36,14 @@
 <h2 align="center">💻 Most Used Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthpula341&langs_count=8&layout=compact&theme=flag-india" alt="Top Languages" />
+</p>
+
+<h2 align="center">👨‍💻 Projects and Contributions</h2>
+<p align="center">
+  <a href="https://github.com/Srikanthpula341/nextjs-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=nextjs-learning&theme=flag-india" alt="Next.js Learning" />
+  </a>
+  <a href="https://github.com/Srikanthpula341/OnFitAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=OnFitAI&theme=flag-india" alt="OnFitAI" />
+  </a>
 </p>
