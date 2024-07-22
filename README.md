@@ -17,36 +17,36 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthpula341&theme=indian-flag" alt="Srikanthpula341's streak stats" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Srikanthpula341&theme=flag-india&show_icons=true&count_private=true" alt="Srikanthpula341's GitHub stats" height="255px" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikanthpula341&theme=indian-flag" alt="Srikanthpula341's streak stats" width="100%" />
 </div>
-
-<br/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srikanthpula341&theme=flag-india&show_icons=true&count_private=true" alt="Srikanthpula341's GitHub stats" width="100%"/>
+</div>
 
 <h2 align="center">🌟 My GitHub Contributions</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srikanthpula341&theme=vue" alt="Srikanthpula341's GitHub Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srikanthpula341&theme=vue" alt="Srikanthpula341's GitHub Contributions" width="100%" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Srikanthpula341&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Srikanthpula341&theme=react-dark" alt="Contribution Graph" width="100%" />
 </p>
 
 <h2 align="center">💻 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthpula341&langs_count=8&layout=compact&theme=flag-india" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srikanthpula341&langs_count=8&layout=compact&theme=flag-india" alt="Top Languages" width="100%" />
 </p>
 
 <h2 align="center">👨‍💻 Projects and Contributions</h2>
-<p align="center">
+<div>
   <a href="https://github.com/Srikanthpula341/nextjs-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=nextjs-learning&theme=flag-india" alt="Next.js Learning" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=nextjs-learning&theme=flag-india" alt="Next.js Learning" width="45%" />
   </a>
   <a href="https://github.com/Srikanthpula341/OnFitAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=OnFitAI&theme=flag-india" alt="OnFitAI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srikanthpula341&repo=OnFitAI&theme=flag-india" alt="OnFitAI" width="45%" />
   </a>
-</p>
+</div>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">
