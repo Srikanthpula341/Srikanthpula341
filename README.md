@@ -1,14 +1,18 @@
-# 👋 Hi, I’m @Srikanthpula341
+# Namaste 🙏, I am Srikanth Pula
+
+A passionate Java Full Stack Developer, dedicated to developing robust applications that interact with various parts of web applications. Extensive expertise in website architecture, design, web design, and web API designs. Problem-solving mindset to optimize my application for better stability and speed. Love to work in a team.
 
 <p align="center">
   <a href="https://github.com/Srikanthpula341">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0e75b6&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Passionate+Coder;Open+Source+Contributor;Innovative+Technologist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=0e75b6&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Passionate+Coder;Open+Source+Contributor;Innovative+Technologist" alt="Typing SVG" />
   </a>
 </p>
 
 - 👀 I’m interested in building scalable web applications and real-time communication solutions.
-- 🌱 I’m currently learning Next.js, React Native, and advanced Java techniques.
-- 💞️ I’m looking to collaborate on innovative projects that leverage Java and modern web technologies.
+- 🌱 I’m currently learning Next.js, React Native, and advanced Java techniques
+- 👯 I’m looking to collaborate on innovative projects that leverage Java and modern web technologies
+- 👨‍💻 All of my details are available in my [Resume](#)
+- 👨‍💻 All of my projects are available at my [Portfolio](#)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srikanthpula/) | [Email](mailto:pulasrikanth1999@gmail.com)
 
 <p align="left">
@@ -53,14 +57,35 @@
 <h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center" style="padding: 10px 0;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+## 👩‍💻 Software & Tools
+
+<p align="center" style="padding: 10px 0;">
+  <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="STS" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Srikanthpula341&theme=onedark" alt="GitHub Trophy" />
+</p>
+
+## ✍️ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote" />
 </p>
