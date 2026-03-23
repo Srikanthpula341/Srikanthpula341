@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Srikanth Pula</h1>
-<h3 align="center">Senior Full Stack Engineer · Java · Spring Boot · React · Next.js</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srikanth%20Pula&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer&descAlignY=58&descSize=20" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Building+scalable+systems+since+2020+%F0%9F%9A%80;Open+to+Remote+%C2%B7+Available+Immediately+%E2%9C%85" alt="Typing SVG" />
+</a>
+
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srikanthpula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -12,7 +19,13 @@
 
 ### About Me
 
-Senior Full Stack Engineer with 4+ years building production-grade applications in healthcare, fintech, and enterprise. I focus on clean architecture, real-time systems, and scalable microservices.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" />
+
+I'm a **Senior Full Stack Engineer** with **4+ years** of building systems that actually survive production — not just demos. I've shipped across **healthcare**, **fintech**, and **enterprise** — handling real users, real scale, and real deadlines.
+
+My sweet spot is the intersection of **clean backend architecture** and **smooth, reactive frontends**. I think in microservices, speak in APIs, and deploy with confidence.
+
+When I'm not shipping features, I'm building **[softwarecareers.co.in](https://softwarecareers.co.in)** — a platform I founded to help Indian developers land visa-sponsored jobs abroad. Because good engineers deserve global opportunities.
 
 - 🚀 Founder of **[softwarecareers.co.in](https://softwarecareers.co.in)** — visa-sponsored job platform for Indian developers
 - 🌍 Based in Hyderabad, India · Open to Remote
@@ -59,7 +72,7 @@ Senior Full Stack Engineer with 4+ years building production-grade applications 
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srikanthpula341&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Srikanthpula341&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </p>
 
 ---
@@ -95,3 +108,5 @@ Senior Full Stack Engineer with 4+ years building production-grade applications 
 <p align="center">
   <a href="https://www.linkedin.com/in/srikanthpula/">LinkedIn</a> · <a href="mailto:pulasrikanth1999@gmail.com">Email</a> · <a href="https://softwarecareers.co.in">softwarecareers.co.in</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
